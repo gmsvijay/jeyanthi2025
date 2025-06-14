@@ -1,0 +1,5 @@
+[
+   { title: 'Periyava01', file: 'Periyava01.jpeg', type: 'image' },
+   { title: 'mruthangam01', file: 'mruthangam01.ogg', type: 'audio' },
+   { title: 'Guruvesong', file: 'Guruvesong-c.mp4', type: 'video' }
+]
