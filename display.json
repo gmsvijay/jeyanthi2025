@@ -5,13 +5,83 @@
         "type": "image"
     },
     {
+        "title": "Periyava02",
+        "file": "Periyava02.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava03",
+        "file": "Periyava03.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava04",
+        "file": "Periyava04.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava05",
+        "file": "Periyava05.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava06",
+        "file": "Periyava06.jpeg",
+        "type": "image"
+    },
+    {
         "title": "mruthangam01",
         "file": "mruthangam01.ogg",
         "type": "audio"
     },
     {
+        "title": "mruthangam02",
+        "file": "mruthangam02.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "mruthangam03",
+        "file": "mruthangam03.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "mruthangam04",
+        "file": "mruthangam04.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "mruthangam05",
+        "file": "mruthangam05.ogg",
+        "type": "audio"
+    },
+    {
         "title": "Guruvesong",
         "file": "Guruvesong-c.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Skandha001",
+        "file": "Skandha001.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Skandha002",
+        "file": "Skandha002.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Skandha003",
+        "file": "Skandha003.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Skandha004",
+        "file": "Skandha004.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Skandha005",
+        "file": "Skandha005.mp4",
         "type": "video"
     }
 ]
