@@ -35,6 +35,21 @@
         "type": "image"
     },
     {
+        "title": "group01",
+        "file": "group01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "group02",
+        "file": "group02.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "group03",
+        "file": "group03.jpeg",
+        "type": "image"
+    },
+    {
         "title": "mruthangam01",
         "file": "mruthangam01.ogg",
         "type": "audio"
