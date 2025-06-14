@@ -1,5 +1,10 @@
 [
     {
+        "title": "Vinayahar",
+        "file": "Vinayahar01.jpeg",
+        "type": "image"
+    },
+    {
         "title": "Periyava01",
         "file": "Periyava01.jpeg",
         "type": "image"
@@ -92,6 +97,16 @@
     {
         "title": "Vizhikidaikuma02",
         "file": "Vizhikidaikuma02.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Vishnu01",
+        "file": "Vishnu01.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Vishnu02",
+        "file": "Vishnu02.mp4",
         "type": "video"
     }
 ]
