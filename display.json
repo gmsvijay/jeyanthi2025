@@ -50,6 +50,11 @@
         "type": "image"
     },
     {
+        "title": "duringSong01",
+        "file": "duringSong01.jpeg",
+        "type": "image"
+    },
+    {
         "title": "monkeys01",
         "file": "monkeys01.jpeg",
         "type": "image"
@@ -63,6 +68,11 @@
         "title": "rain",
         "file": "rain.jpeg",
         "type": "image"
+    },
+    {
+        "title": "SarguruNathane",
+        "file": "SarguruNathane.ogg",
+        "type": "audio"
     },
     {
         "title": "mruthangam01",
