@@ -50,6 +50,21 @@
         "type": "image"
     },
     {
+        "title": "monkeys01",
+        "file": "monkeys01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "monkeys02",
+        "file": "monkeys02.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "rain",
+        "file": "rain.jpeg",
+        "type": "image"
+    },
+    {
         "title": "mruthangam01",
         "file": "mruthangam01.ogg",
         "type": "audio"
