@@ -1,0 +1,138 @@
+[
+    {
+        "title": "Vinayahar",
+        "file": "Vinayahar01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava01",
+        "file": "Periyava01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava02",
+        "file": "Periyava02.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava03",
+        "file": "Periyava03.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava04",
+        "file": "Periyava04.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava05",
+        "file": "Periyava05.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "Periyava06",
+        "file": "Periyava06.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "group01",
+        "file": "group01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "group02",
+        "file": "group02.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "group03",
+        "file": "group03.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "duringSong01",
+        "file": "duringSong01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "monkeys01",
+        "file": "monkeys01.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "monkeys02",
+        "file": "monkeys02.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "rain",
+        "file": "rain.jpeg",
+        "type": "image"
+    },
+    {
+        "title": "SarguruNathane",
+        "file": "SarguruNathane.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "mruthangam01",
+        "file": "mruthangam01.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "mruthangam02",
+        "file": "mruthangam02.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "mruthangam03",
+        "file": "mruthangam03.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "mruthangam04",
+        "file": "mruthangam04.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "mruthangam05",
+        "file": "mruthangam05.ogg",
+        "type": "audio"
+    },
+    {
+        "title": "Bajan1",
+        "file": "Bajan1.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Guruvesong",
+        "file": "Guruvesong.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Rudramstart",
+        "file": "Rudramstart.mp4",
+        "type": "video"
+    },
+    
+    {
+        "title": "Vizhikidaikuma01",
+        "file": "Vizhikidaikuma01.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Vizhikidaikuma02",
+        "file": "Vizhikidaikuma02.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Vishnu01",
+        "file": "Vishnu01.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Vishnu02",
+        "file": "Vishnu02.mp4",
+        "type": "video"
+    }
+]
