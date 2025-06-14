@@ -90,8 +90,18 @@
         "type": "audio"
     },
     {
+        "title": "Bajan1",
+        "file": "Bajan1.mp4",
+        "type": "video"
+    },
+    {
         "title": "Guruvesong",
-        "file": "Guruvesong-c.mp4",
+        "file": "Guruvesong.mp4",
+        "type": "video"
+    },
+    {
+        "title": "Rudramstart",
+        "file": "Rudramstart.mp4",
         "type": "video"
     },
     {
